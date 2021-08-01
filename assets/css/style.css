@@ -1044,6 +1044,12 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio{
+  background-image: url('https://cdn.wallpapersafari.com/93/89/pt7N1j.png');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 25px auto;
@@ -1569,12 +1575,12 @@ section {
 .contact .info-box i {
   font-size: 38px;
   line-height: 0;
-  color: #4154f1;
+  color: #ff7f50;
 }
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #012970;
+  color: #e23618;
   font-weight: 700;
   margin: 20px 0 10px 0;
 }
@@ -1653,7 +1659,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #4154f1;
+  background: #fa8231;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -2280,7 +2286,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #ff761b;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -2308,7 +2314,7 @@ section {
 .footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #012970;
+  color: rgb(226, 54, 24);
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2342,7 +2348,7 @@ section {
 }
 
 .footer .footer-top .footer-links ul a {
-  color: #013289;
+  color: #ac4500;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -2359,7 +2365,7 @@ section {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #012970;
+  color: white;
 }
 
 .footer .credits {
